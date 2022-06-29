@@ -2,4 +2,5 @@ numpy
 matplotlib
 torch
 torchvision
+tensorboard
 --extra-index-url https://download.pytorch.org/whl/cu113
