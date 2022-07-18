@@ -3,4 +3,5 @@ matplotlib
 torch
 torchvision
 tensorboard
+hyc-utils
 --extra-index-url https://download.pytorch.org/whl/cu113
